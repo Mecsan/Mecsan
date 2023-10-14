@@ -1,6 +1,6 @@
-# <p style="text-align: center;">Hi 👋, I'm Sanket Mekwan</P>
+# Hi 👋, I'm Sanket Mekwan
 
-### <p style="text-align: center;">A Passionate developer from India </p>
+###  A Passionate developer from India
 
 - 🔭 I’m currently working on MERN stack technology.
 - 🌱 I’m currently learning typescript
