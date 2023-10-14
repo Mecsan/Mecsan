@@ -10,10 +10,8 @@
 - 📫 Reach me at : mecwansanket333@gmail.com
 - ⚡ Fun fact : I love to watch Anime & Anime is not a cartoon
   
-
-<div style="margin-bottom:30px">
-<h3>Languages & Tools : </h3>
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
+### Languages & Tools :
+<div>
 
 <img height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -57,5 +55,6 @@
 </div>
 
 </div>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mecsan&layout=compact&hide=Jupyter%20Notebook&theme=tokyo)](https://github.com/anuraghazra/github-readme-stats)
